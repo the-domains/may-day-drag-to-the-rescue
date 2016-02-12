@@ -1,0 +1,28 @@
+name: 'May Day! Drag to the Rescue'
+favicon: null
+layout_spectrum: 0.40905934874899685
+typography_spectrum: 0.9088514305185527
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4203632096759975
+  lightness: 0.2928939419798553
+  saturation: 0.14106172043830156
+  rhythmicContrast: 0.5293655479326844
+purpose: []
