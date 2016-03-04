@@ -1,6 +1,6 @@
 name: 'May Day! Drag to the Rescue!'
 favicon: null
-layout_spectrum: 0.40905934874899685
+layout_spectrum: 1
 typography_spectrum: 0.9088514305185527
 title: Drag to the Rescue
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.25
   lightness: 0.2928939419798553
   saturation: 0.1875
-  rhythmicContrast: 0.5293655479326844
+  rhythmicContrast: 0.5
 purpose: []
